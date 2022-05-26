@@ -1,0 +1,14 @@
+body {
+    background-color : violet !important
+}
+.versus {
+    text-align: center;
+}
+.submitbutton {
+    text-align : right !important
+}
+#versus {
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:aqua
+}
